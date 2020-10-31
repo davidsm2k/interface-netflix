@@ -10,5 +10,5 @@
 
    
 
-![GIF DO PROJETO](https://imgur.com/rOMvGyM.gif)
+![GIF DO PROJETO](preview-tela.gif)
 
