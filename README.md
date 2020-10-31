@@ -10,4 +10,5 @@
 
    
 
-![GIF DO PROJETO](demo-tela/preview-tela.gif)
+![GIF DO PROJETO](https://imgur.com/rOMvGyM.gif)
+
