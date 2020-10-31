@@ -9,4 +9,4 @@
 ###### Pré-visualização do projeto:
 
 ![GIF DO PROJETO](https://imgur.com/rVGnyQl.png)
-
+=======
